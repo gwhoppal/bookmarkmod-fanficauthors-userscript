@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name			Bookmark Mod - FanficAuthors.net
-// @version			1.4.13
+// @version			1.5
 // @namespace		http://toswy.com/
 // @description		Changes the page title and description to make for easy bookmarking
 // @include			*.fanficauthors.net/*/index*
-// @downloadURL		https://dl.dropboxusercontent.com/u/644563/bookmarkmod-fanficauthors.user.js
-// @updateURL		https://dl.dropboxusercontent.com/u/644563/bookmarkmod-fanficauthors.user.js
+// @downloadURL		https://github.com/gwhoppal/bookmarkmod-fanficauthors-userscript/raw/master/bookmarkmod-fanficauthors.user.js
+// @updateURL		https://github.com/gwhoppal/bookmarkmod-fanficauthors-userscript/raw/master/bookmarkmod-fanficauthors.user.js
 // ==/UserScript==
 
 /*! jQuery v2.1.4 | (c) 2005, 2015 jQuery Foundation, Inc. | jquery.org/license */
